@@ -1,0 +1,15 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 23px;
+    font-weight: 700;
+}
+.tambah{
+    border-radius: 20px;
+    
+}
+.btn{
+    border-radius: 5px;
+    border: 1px solid blue;
+}
